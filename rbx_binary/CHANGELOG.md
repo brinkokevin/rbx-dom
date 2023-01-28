@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+## 0.6.7 (2023-01-12)
+* Added support for `Font` values.
+
 ## 0.6.6 (2022-06-29)
 * Fixed unserialized properties getting deserialized, like `BasePart.MaterialVariant`. ([#230])
 

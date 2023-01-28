@@ -2,6 +2,9 @@
 
 ## Unreleased Changes
 
+## 0.2.5-roblox-558
+* Updated to Roblox version 558.
+
 ## 0.2.5+roblox-530
 * Updated to Roblox version 530.
 * `Instance.Attributes` is now the canonical version of `Instance.AttributesSerialize` and is marked as scriptable.

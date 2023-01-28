@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+## 0.12.5 (2023-01-12)
+* Implemented serialization and deserialization for `Font`
+
 ## 0.12.4 (2022-06-12)
 * Implemented serialization and deserialization for `Attributes`. ([#219])
 

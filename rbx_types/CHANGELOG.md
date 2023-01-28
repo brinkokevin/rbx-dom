@@ -2,6 +2,9 @@
 
 ## Unreleased Changes
 
+## 1.4.3 (2023-01-12)
+* Implemented `Font`
+
 ## 1.4.2 (2022-06-12)
 * `Variant::String` now encodes correctly inside of `Attributes`.
 
